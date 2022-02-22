@@ -31,3 +31,6 @@ jwt:
 
 server:
   port: 8080
+
+mail:
+  config: andres.bravo161@gmail.com
